@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10.2)
-project(future)
+project(untitled)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled main.cpp)
+add_executable(logic_svr main.cpp)
